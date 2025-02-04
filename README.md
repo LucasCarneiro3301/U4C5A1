@@ -30,10 +30,10 @@ git clone https://github.com/LucasCarneiro3301/U4C4O12T.git
 ```
 
 ### 2. Configure o ambiente de desenvolvimento
-Certifique-se de que o [SDK do Raspberry Pi Pico](https://github.com/LucasCarneiro3301/U4C5A1.git) esteja instalado e configurado corretamente no seu sistema.
+Certifique-se de que o [SDK do Raspberry Pi Pico](https://github.com/raspberrypi/pico-sdk) esteja instalado e configurado corretamente no seu sistema.
 
 ### 3. Configure a extensão do simulador Wokwi
-Certifique-se de que a extensão [Wokwi para VS Code](https://docs.wokwi.com/pt-BR/vscode/getting-started) esteja instalada e configurada corretamente no seu sistema.
+Certifique-se de que a extensão [Wokwi para VS Code](https://docs.wokwi.com/pt-BR/vscode/getting-started) esteja instalada e configurada corretamente em seu ambiente VS Code.
 
 ### 4. Conexão com a Rapberry Pico
 1. Conecte o Raspberry Pi Pico ao seu computador via USB.
