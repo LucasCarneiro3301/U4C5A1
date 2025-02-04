@@ -7,8 +7,8 @@
 #include "hardware/timer.h"
 
 #define RED 13 //VERDE no wokwi
-#define GREEN 12 //AMARELO no wokwi
-#define BLUE 11 //VERMELHO no Wokwi
+#define BLUE 12 //AMARELO no wokwi
+#define GREEN 11 //VERMELHO no Wokwi
 
 unsigned short int counter = 0; // Contador utilizado para definir o turno de cada LED
 
@@ -40,8 +40,8 @@ int main() {
 // Configura o estado de cada um dos 3 LEDs
 void semaforo(unsigned short int state) {
     gpio_put(RED,state & 0x100);
-    gpio_put(GREEN,state & 0x010);
-    gpio_put(BLUE,state & 0x001);
+    gpio_put(BLUE,state & 0x010);
+    gpio_put(GREEN,state & 0x001);
 }
 
 // Rotina de temporização. A cada 3 seg um LED é ligado e os outros 2 LEDs são desligados
@@ -60,10 +60,10 @@ void setup() {
     gpio_init(RED);
     gpio_set_dir(RED, GPIO_OUT); 
 
-    gpio_init(GREEN);
-    gpio_set_dir(GREEN, GPIO_OUT); 
-
     gpio_init(BLUE);
-    gpio_set_dir(BLUE, GPIO_OUT);
-    gpio_put(BLUE,true); 
+    gpio_set_dir(BLUE, GPIO_OUT); 
+
+    gpio_init(GREEN);
+    gpio_set_dir(GREEN, GPIO_OUT);
+    gpio_put(GREEN,true); 
 }
