@@ -50,7 +50,7 @@ Certifique-se de que a extensão [Wokwi para VS Code](https://docs.wokwi.com/pt-
 
 ### 1. Semáforo
 
-Composto por um led vermelho, amarelo e verde, seguindo a sequência vermelho → amarelo → verde a cada 3000 ms (3 segundos). Na placa BitDogLab o semáforo é representado pelo LED RGB, seguindo a sequência **verde → azul → vermelho**.
+Composto por um led vermelho, amarelo e verde, seguindo a sequência **vermelho → amarelo → verde** a cada 3000 ms (3 segundos). Na placa BitDogLab o semáforo é representado pelo LED RGB, seguindo a sequência **verde → azul → vermelho**.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b79edd46-35d5-4974-87a0-6d4a090130fd" alt="GIF demonstrativo" width="300"/>
