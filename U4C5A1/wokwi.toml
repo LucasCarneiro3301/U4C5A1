@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = 'build/U4C5A1.hex'
-elf = 'build/U4C5A1.elf'
