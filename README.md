@@ -17,10 +17,8 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 6) 1 Botão Pull-Up
 7) Ferramenta educacional BitDogLab.
 
-__O resultado do projeto pode ser assistido através deste link: [Aplicação U4C4O12T - Contador na Matriz de LED]().__
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/45ee39ff-bf4a-4fbb-897b-3f30eb7b1b9b" alt="GIF demonstrativo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a881ff6b-153c-425a-ad8e-13f210549b1b" alt="GIF demonstrativo" width="300"/>
 </div>
 
 ## Instruções de Uso
@@ -52,7 +50,7 @@ Certifique-se de que a extensão [Wokwi para VS Code](https://docs.wokwi.com/pt-
 
 ### 1. Semáforo
 
-Composto por um led vermelho, amarelo e verde, seguindo a sequência vermelho → amarelo → verde a cada 3000 ms (3 segundos). Na placa BitDogLab o semáforo é representado pelo LED RGB, seguindo a sequência azul → verde → vermelho.
+Composto por um led vermelho, amarelo e verde, seguindo a sequência vermelho → amarelo → verde a cada 3000 ms (3 segundos). Na placa BitDogLab o semáforo é representado pelo LED RGB, seguindo a sequência verde → azul → vermelho.
 
 ### 2. Temporização Periódica
 
