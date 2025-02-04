@@ -8,6 +8,10 @@ Lucas Carneiro de Araújo Lima
 __Descrição:__
 O projeto consiste na implementação de um semáforo utilizando a Raspberry Pi Pico W, controlado por um temporizador periódico configurado com a função `add_repeating_timer_ms()` do Pico SDK. Três LEDs (vermelho, amarelo e verde) e três resistores de 330 Ω são usados para simular as luzes do semáforo, alternando seus estados a cada 3 segundos. A lógica de controle, implementada via GPIO, segue a sequência vermelho → amarelo → verde, garantindo a temporização correta do sistema.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a881ff6b-153c-425a-ad8e-13f210549b1b" alt="GIF demonstrativo" width="400"/>
+</div>
+
 __Para este trabalho, os seguintes componentes e ferramentas se fazem necessários:__
 1) Microcontrolador Raspberry Pi Pico W.
 2) Simulador de Sistemas Embarcados Wokwi.
@@ -16,10 +20,6 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 5) 3 Resistores 330 Ω
 6) 1 Botão Pull-Up
 7) Ferramenta educacional BitDogLab.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a881ff6b-153c-425a-ad8e-13f210549b1b" alt="GIF demonstrativo" width="300"/>
-</div>
 
 ## Instruções de Uso
 
