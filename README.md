@@ -25,7 +25,7 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 ### 1. Clone o repositório
 Abra o terminal e execute o comando abaixo para clonar o repositório em sua máquina:
 ```bash
-git clone https://github.com/LucasCarneiro3301/U4C4O12T.git
+git clone https://github.com/LucasCarneiro3301/U4C5A1.git
 ```
 
 ### 2. Configure o ambiente de desenvolvimento
