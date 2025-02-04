@@ -18,7 +18,6 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 3) Ambiente de trabalho VSCode.
 4) 3 LEDs
 5) 3 Resistores 330 Ω
-6) 1 Botão Pull-Up
 7) Ferramenta educacional BitDogLab.
 
 ## Instruções de Uso
