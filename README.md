@@ -41,7 +41,7 @@ Certifique-se de que a extensão [Wokwi para VS Code](https://docs.wokwi.com/pt-
 1. Conecte o Raspberry Pi Pico ao seu computador via USB.
 2. Inicie o modo de gravação pressionando o botão **BOOTSEL** e **RESTART**.
 3. O Pico será montado como um dispositivo de armazenamento USB.
-4. Execute através do comando **RUN** a fim de copiar o arquivo `ws2812.uf2` para o Pico.
+4. Execute através do comando **RUN** a fim de copiar o arquivo `U4C5A1.uf2` para o Pico.
 5. O Pico reiniciará automaticamente e executará o programa.
 
 ### 4. Observações (IMPORTANTE !!!)
